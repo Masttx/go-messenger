@@ -1,6 +1,6 @@
 package types
 
-type Users struct {
+type User struct {
 	ID       int64
 	Nickname string
 	Password string
